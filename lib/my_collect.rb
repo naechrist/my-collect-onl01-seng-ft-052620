@@ -1,6 +1,6 @@
 def my_collect(empty_array) 
  
- 
+new_array = []
 index = 0 
 
 while index < array.length 
